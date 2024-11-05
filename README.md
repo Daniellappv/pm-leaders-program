@@ -94,7 +94,63 @@ A PM Leader has competence in the following areas:
 - Advocating for self-organization and empowering teams to take initiative in their work.
 - Coaching others and being coachable
 
-## Topics
+## Preliminary list of topics
+
+1. Owning It, No Matter What
+- Stepping up to take full responsibility for project success and team vibes.
+- Owning decisions and actions—even the tough ones—while inspiring others to do the same.
+- Shifting from reaction to action, tackling issues head-on to keep projects moving.
+
+2. Getting Stuff Done, Right and Fast 
+- Prioritizing tasks and managing time to hit deadlines with quality.
+- Using tools and methods to keep workflows clean and efficient.
+- Cultivating a “get it done” mentality that combines speed with attention to detail.
+
+3. Analysing for success: https://www.datopian.com/playbook/dojo/analysis
+- Capturing Needs: Develop a systematic approach to gather and distinguish the needs of clients and users, ensuring that no critical requirements are overlooked.
+- Designing Effective Solutions: Utilize both existing and innovative tools to research and architect solutions that meet identified needs, fostering collaboration among team members to enhance creativity and efficacy.
+- Strategic Planning: Break down the design into manageable tasks, clearly define dependencies, and create a comprehensive roadmap that includes timelines and resources to ensure efficient delivery of the solution.
+
+4. SCQH: Your Go-To Tool for Problem Solving https://www.datopian.com/playbook/scqh
+- Situation Assessment: Start with a clear overview of the current state, including relevant context and background information to ground the discussion.
+- Identifying Complications: Articulate the core problems hindering progress, facilitating a focused dialogue on challenges that need resolution.
+- Formulating Questions: Encourage the team to ask critical questions that lead to deeper understanding and exploration of potential solutions.
+- Hypothesis Development: Propose evidence-based hypotheses that address the identified questions, creating actionable plans that guide the team's efforts towards effective solutions.
+
+5. Shapeup: Stop Running in Circles and Ship Work that Matters https://lifeitself.org/tao/getting-stuff-done
+- Shaping Before Selection: Emphasize the importance of extensively shaping ideas before they enter the selection phase, ensuring that only well-defined concepts are pursued.
+- Defining Appetite vs. Features: Focus on establishing a clear appetite for work based on iteration lengths, allowing teams to prioritize effectively while maintaining scope integrity.
+- Maintaining Focus During Shipping: Organize work periods that minimize distractions, allowing teams to concentrate on delivering quality results. Schedule cooldown periods to address outstanding tasks and prepare for future projects, ensuring smooth transitions and continuous improvement.
+
+6. Verify, Don’t Just Trust (Especially with Devs)
+- Knowing when to dig deeper instead of making assumptions.
+- Double-checking details to ensure quality and manage expectations.
+- Embracing a habit of reviewing work to build reliability and avoid surprises.
+
+7. Ask First, Don’t Assume
+- Confidently seeking clarification whenever needed, no guessing games.
+- Building a habit of asking questions to fully understand complex requirements.
+- Honing listening skills to make sure nothing important slips through the cracks.
+
+8. Aim for Awesome, Not Just “Good Enough”
+- Always looking for ways to improve how things work and what we deliver.
+- Finding small optimizations that make a big difference in quality and efficiency.
+- Embracing a mindset of continuous improvement for standout project results.
+
+9. Show Up Prepared and Set the Stage
+- Coming to meetings ready with clear intentions and action plans.
+- Defining goals and desired outcomes to keep discussions focused.
+- Guiding conversations toward real results, alignment, and follow-through.
+
+10. Walking the Talk with Integrity
+- Keeping promises and staying in communication, even when things shift.
+- Being proactive in letting others know if you can’t meet a commitment.
+- Building trust by staying accountable and consistent in all interactions.
+
+11. Spotting Growth Opportunities with Clients
+- Recommending add-ons or features that align with client goals.
+- Practicing smart, relevant upselling to enhance client experience and project impact.
+- Sharing ideas and examples to highlight additional ways we can add value.
 
 
 
