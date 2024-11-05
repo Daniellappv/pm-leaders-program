@@ -1,5 +1,7 @@
 ### Classroom Script: Extreme Ownership (100% Responsibility)
 
+**Link to slide deck: [Classroom 1: Extreme Ownership (100% Responsibility)](https://docs.google.com/presentation/d/1teZPHU3KWaJNB2mhgE0Y-g1TgtNyPdrr_DsPUEvFa9A/edit?usp=sharing)
+**
 **Duration**: 1 hour  
 **Participants**: The 3 newly hired Project Managers  
 **Objective**: Understand the concept of Extreme Ownership, its importance, and how to apply it in their roles.
