@@ -1,7 +1,5 @@
 # PM Leaders Program
 
-![image](https://github.com/user-attachments/assets/651920c3-7c54-4d12-9203-071fe1da5f75)
-
 ## Intro
 
 At Datopian, we pride ourselves on delivering exceptional solutions, on time, and with a deep understanding of client needs. The demand for our expertise is growing, and with it, the need for project managers who can not only manage complex projects but also lead with confidence, clarity, and foresight.
