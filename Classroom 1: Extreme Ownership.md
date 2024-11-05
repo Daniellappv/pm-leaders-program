@@ -10,26 +10,22 @@
 
 - **Welcome & Introduction**  
   - As new project managers, it’s essential to understand the cultural values that drive our company.
-  - Today, we’re focusing on *Extreme Ownership*, which we define as 100% responsibility and being the cause in the matter.
+  - Today, we’re focusing on *Extreme Ownership*, which we define as *100% responsibility* and being the cause in the matter.
 
-#### What is Extreme Ownership? (10 minutes)
+#### What is 100% Responsibility? (10 minutes)
 
 _"Responsibility means being able to respond to the best of your ability to whatever situation you may face in your life."_ Sadhguru 
 
-_"Karma means ultimate responsibility. You even take responsibility for your very birth and death."_
-
-**Without Taking Responsibility For Your Incapabilities, There Is No Possibility Of Becoming Capable.**
-
-Responsibility is about empowerment, not about feeling burdened by past mistakes or the actions of others.
+_Without Taking Responsibility For Your Incapabilities, There Is No Possibility Of Becoming Capable._ 
 
 - **Definition**  
-  - "Extreme Ownership means taking complete responsibility for your work, your decisions, and the outcomes of your projects. It’s about acknowledging that you are the primary factor in your success or failure."
+  - 100% responsibility means recognizing that you are the cause of everything in your life and work, taking full ownership of your actions and their outcomes, and feeling empowered to act in any situation. It’s about actively engaging with challenges and collaborating with your team to drive results. It’s about acknowledging that you are the primary factor in your success or failure. It is the possibility to ACT.
 - **Key Principles**  
   - There are no excuses for obstacles.
   - If someone is blocking you, it’s your job to address it actively.
   - You must be relentless in finding solutions.
 
-#### What Extreme Ownership is Not (10 minutes)
+#### What 100% Responsibility is Not (10 minutes)
 
 It’s not about taking on others' responsibilities or doing everything yourself. Instead, it’s about leading with accountability, collaborating with your team, and driving results despite challenges.
 
@@ -40,7 +36,7 @@ It’s not about taking on others' responsibilities or doing everything yourself
  - **Not Control Over Others:** Taking responsibility does not mean trying to control or manipulate others’ actions or decisions. You are only able to take responsibility for your own life, not for the lives of others. True responsibility involves focusing on one’s own actions and choices rather than trying to manage others.
  - **Not Just a Duty:** Responsibility is not merely fulfilling obligations or duties. It should come from a deeper understanding and connection to oneself and the situation. When responsibility is reduced to just a duty, it loses its true meaning. It should reflect your identity rather than simply being a task to complete.
 
-#### Why is Extreme Ownership Important? (10 minutes)
+#### Why 100% Responsibility matters (10 minutes)
 
 1. **Empowerment**: When team members take responsibility, they feel more in control and can really make a difference in their roles. It encourages them to develop problem-solving skills, resilience, and the ability to adapt to changing circumstances.
 
@@ -61,7 +57,7 @@ It’s not about taking on others' responsibilities or doing everything yourself
 #### Assignment (10 minutes)
 
 - **Group Activity**  
-  For our assignment today, I want each of you to reflect on a recent project or task where you felt challenged. Think about how you could have exercised Extreme Ownership in that situation. Write down your thoughts on the following questions:
+  For our assignment today, I want each of you to reflect on a recent project or task where you felt challenged. Think about how you could have exercised Extreme Ownership/100% Responsibility in that situation. Write down your thoughts on the following questions:
 
   1. What was the challenge?
   2. How did you react?
@@ -74,7 +70,7 @@ It’s not about taking on others' responsibilities or doing everything yourself
 #### Q&A Session (15 minutes)
 
 - **Open Floor for Questions**  
-  Now, I’d like to open the floor for any questions or thoughts about Extreme Ownership. What challenges do you foresee in applying this principle, or do you have any clarifications you need?
+  Now, I’d like to open the floor for any questions or thoughts about Extreme Ownership/100% Responsibility. What challenges do you foresee in applying this principle, or do you have any clarifications you need?
 
 #### Conclusion (5 minutes)
 
