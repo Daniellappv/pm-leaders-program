@@ -30,11 +30,11 @@ _Without Taking Responsibility For Your Incapabilities, There Is No Possibility 
 It’s not about taking on others' responsibilities or doing everything yourself. Instead, it’s about leading with accountability, collaborating with your team, and driving results despite challenges.
 
 - **Clarifying Misconceptions**  
- - **Not Blame or Guilt:** Responsibility should not be confused with blame or guilt. When you approach responsibility with guilt or blame, you’re not addressing the problem; instead, you’re contributing to it. 
- - **Not Sacrifice:** True responsibility does not mean sacrificing one’s well-being for others. Instead, being responsible should come from a place of strength and self-awareness, allowing individuals to contribute effectively without losing themselves. Engaging in actions solely out of sacrifice is not sustainable; over time, it will turn into a heavy burden.
- - **Not a Burden:** Responsibility is not about feeling overwhelmed or burdened by the weight of expectations. Responsibility should be a source of empowerment, not exhaustion.
- - **Not Control Over Others:** Taking responsibility does not mean trying to control or manipulate others’ actions or decisions. You are only able to take responsibility for your own life, not for the lives of others. True responsibility involves focusing on one’s own actions and choices rather than trying to manage others.
- - **Not Just a Duty:** Responsibility is not merely fulfilling obligations or duties. It should come from a deeper understanding and connection to oneself and the situation. When responsibility is reduced to just a duty, it loses its true meaning. It should reflect your identity rather than simply being a task to complete.
+  - **Not Blame or Guilt:** Responsibility should not be confused with blame or guilt. When you approach responsibility with guilt or blame, you’re not addressing the problem; instead, you’re contributing to it. 
+  - **Not Sacrifice:** True responsibility does not mean sacrificing one’s well-being for others. Instead, being responsible should come from a place of strength and self-awareness, allowing individuals to contribute effectively without losing themselves. Engaging in actions solely out of sacrifice is not sustainable; over time, it will turn into a heavy burden.
+  - **Not a Burden:** Responsibility is not about feeling overwhelmed or burdened by the weight of expectations. Responsibility should be a source of empowerment, not exhaustion.
+  - **Not Control Over Others:** Taking responsibility does not mean trying to control or manipulate others’ actions or decisions. You are only able to take responsibility for your own life, not for the lives of others. True responsibility involves focusing on one’s own actions and choices rather than trying to manage others.
+  - **Not Just a Duty:** Responsibility is not merely fulfilling obligations or duties. It should come from a deeper understanding and connection to oneself and the situation. When responsibility is reduced to just a duty, it loses its true meaning. It should reflect your identity rather than simply being a task to complete.
 
 #### Why 100% Responsibility matters (10 minutes)
 
