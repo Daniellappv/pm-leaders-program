@@ -1,5 +1,7 @@
 # PM Leaders Program
 
+![image](https://github.com/user-attachments/assets/651920c3-7c54-4d12-9203-071fe1da5f75)
+
 ## Intro
 
 At Datopian, we pride ourselves on delivering exceptional solutions, on time, and with a deep understanding of client needs. The demand for our expertise is growing, and with it, the need for project managers who can not only manage complex projects but also lead with confidence, clarity, and foresight.
@@ -8,6 +10,7 @@ We believe that great project management is about more than just timelines and t
 This is where the Datopian PM Leaders Program comes in. It's a comprehensive training and leadership development initiative designed to empower project managers to not only master the art of delivery but also to step into leadership roles. Our PM Leaders go beyond coordination – they become strategic partners to our clients, guiding projects with a mix of technical understanding, client empathy, and leadership presence.
 
 Through this rigorous program, you’ll develop the skills, mindset, and leadership presence required to take full ownership of complex projects, lead high-performing teams, and create lasting impact for our clients. You’ll emerge as a PM Leader, equipped to lead from the front, inspire teams, and deliver top-tier results, all while embodying the Datopian philosophy of autonomy, initiative, and excellence.
+
 
 ## Purpose
 
