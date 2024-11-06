@@ -174,18 +174,60 @@ _https://www.datopian.com/playbook/integrity_
    - Focus: Identifying opportunities, client relationship management, embracing and promoting organizational values.
    - Modules:
      - **Spotting Growth Opportunities with Clients**
-     - **Bein a Cultural Steward** 
+     - **Being a Cultural Steward** 
 
 
 ### **Format and Timeline**
-- **Duration**: Approx. 12-16 weeks.
-- **Weekly Modules**: Each module consists of 2 sessions. 
+- **Duration**: Approx. 12-14 weeks.
+- **Weekly Modules**: Each of the 7 phases consists of 2 modules. 
 - **Hands-On Assignments**: Real-time tasks related to active projects.
 - **Peer and Coach Feedback**: Feedback loops for growth and self-improvement.
 - **Final Project**: Participants must lead a project or project component, demonstrating all learned skills.
 
-
 ### **Program Outcomes**
 Participants will develop into Agile PM Coaches, equipped to manage complex projects with strategic insight, client empathy, and team leadership. The program will ensure PMs embody Datopian’s values, drive impactful results, and foster a culture of continuous improvement.
 
-## Evaluation criteria 
+## Evaluation criteria WIP
+
+For a simple evaluation of whether someone has passed the Agile PM coaching program, you can use the following criteria:
+
+1. **Knowledge Check (Pass/Fail):**  
+   - **Criteria:** Complete a short quiz or assessment with at least 80% correct answers on Agile principles, tools, and processes.
+   - **Pass:** 80% or higher.
+
+2. **Project Delivery Metrics (Pass/Fail):**  
+   - **Criteria:** Demonstrate successful delivery of at least one project on time, within scope, and with client satisfaction.
+   - **Pass:** Successfully completed a project meeting the criteria.
+
+3. **Client Feedback (Pass/Fail):**  
+   - **Criteria:** Receive positive feedback from at least one client regarding the Agile PM's performance, including communication, problem-solving, and delivery.
+   - **Pass:** At least 70% positive feedback from clients.
+
+4. **Team Feedback (Pass/Fail):**  
+   - **Criteria:** Gather feedback from the team (via survey or informal check-in) on collaboration, empowerment, and leadership.
+   - **Pass:** Positive team feedback (70% or more satisfaction).
+
+5. **Coaches' Feedback (Pass/Fail):**
+   - **Criteria:** Receive positive evaluation from the coaches based on observed performance, growth, and application of Agile practices throughout the program.
+   - **Pass:** Coaches' feedback confirms effective application and demonstrated leadership.
+
+If the person meets the minimum requirements in each of these areas, they can be considered as having graduated the program successfully.
+
+## Appendix
+
+- First Draft Planning & Curriculum Development - by eop Wed, 6th of Nov ✅
+- Receiving feedback - by eop Fri, 8th of Nov 🚧
+- Implementing feedback and refining - by eop Wed, 13th of Nov
+- Content Creation - in phases:
+  - Starting phase by phase, module by module
+  - Each phase is to be finished within a week, ie. by the end of the year, all phases and modules should be 100% done.
+
+**Deadlines for the creation of each phase below:**
+1. Foundation Phase: Core Competencies => delivered by 15th of Nov
+2. Ownership and Responsibility: Developing Leadership => delivered by 22nd of Nov
+3. Client-Centric Problem Solving: Strategic Insight => delivered by 29th of Nov
+4. Strategic Delivery: Planning and Execution => delivered by 6th of Dec
+5. Team Empowerment: Collaboration and Coaching => delivered by 13th of Dec
+6. Trust Building and Integrity: Consistent Leadership => delivered by 20th of Dec
+7. Being a Datopian Steward: Adding Value while Living Datopian Values => delivered by 27th of Dec
+
