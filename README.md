@@ -1,22 +1,23 @@
-# ➡️ PM Leaders Program
+# ➡️ Agile PM Coaching Program
 
 ## Intro
 
 At Datopian, we pride ourselves on delivering exceptional solutions, on time, and with a deep understanding of client needs. The demand for our expertise is growing, and with it, the need for project managers who can not only manage complex projects but also lead with confidence, clarity, and foresight.
 
 We believe that great project management is about more than just timelines and task lists. It's about leadership, ownership, and the ability to inspire teams to deliver their best work, all while navigating the unique dynamics of our distributed, self-organizing, and autonomous culture.
-This is where the Datopian PM Leaders Program comes in. It's a comprehensive training and leadership development initiative designed to empower project managers to not only master the art of delivery but also to step into leadership roles. Our PM Leaders go beyond coordination – they become strategic partners to our clients, guiding projects with a mix of technical understanding, client empathy, and leadership presence.
+
+This is where the Datopian Agile PM Coaching Program comes in. It's a comprehensive training and leadership development initiative designed to empower project managers to not only master the art of delivery but also to step into leadership roles. Our PM Leaders go beyond coordination – they become strategic partners to our clients, guiding projects with a mix of technical understanding, client empathy, and leadership presence.
 
 Through this rigorous program, you’ll develop the skills, mindset, and leadership presence required to take full ownership of complex projects, lead high-performing teams, and create lasting impact for our clients. You’ll emerge as a PM Leader, equipped to lead from the front, inspire teams, and deliver top-tier results, all while embodying the Datopian philosophy of autonomy, initiative, and excellence.
 
 
 ## Purpose
 
-The purpose of the PM Leaders Program is to empower you to become a true project leader at Datopian. Someone who can not only deliver complex projects on time and within scope but also lead teams with vision, clarity, and confidence. You will learn to anticipate client needs, manage stakeholder relationships, and ensure that teams are aligned and performing at their best. By the end of the program, you will be able to take full ownership of projects, guiding them from inception to successful completion, all while embodying Datopian’s values of autonomy, initiative, and excellence.
+The purpose of the Agile PM Coaching Program is to empower you to become a true project leader at Datopian. Someone who can not only deliver complex projects on time and within scope but also lead teams with vision, clarity, and confidence. You will learn to anticipate client needs, manage stakeholder relationships, and ensure that teams are aligned and performing at their best. By the end of the program, you will be able to take full ownership of projects, guiding them from inception to successful completion, all while embodying Datopian’s values of autonomy, initiative, and excellence.
 
 ## Participation
 
-Anyone at Datopian may apply to participate in the program and acceptance into the program will be decided by the Head of Delivery. Participants in the program are known as PM Leader Apprentices. Upon successful graduation, you will be a Datopian PM Leader.
+Anyone at Datopian may apply to participate in the program and acceptance into the program will be decided by the Head of Delivery. Participants in the program are known as Agile PM Explorers. Upon successful graduation, they will be an Agile PM Coaches.
 
 ## Commitment and Agreements
 
@@ -26,88 +27,67 @@ Anyone at Datopian may apply to participate in the program and acceptance into t
 4. Listen Critically: Question ideas, dig deeper, and engage actively in discussions.
 5. Own Your Journey: Take responsibility for your development by applying new insights and evolving continuously.
 
-## What is a "PM Leader"?
+## What is an "Agile PM Coach"?
 
-A PM Leader at Datopian is someone who consistently drives projects to success by combining technical project management expertise with exceptional leadership. They are more than just project managers — they are strategic leaders who take full ownership of delivering client outcomes and inspiring teams to perform at their best.
+An Agile PM Coach at Datopian is someone who consistently drives projects to success by combining technical project management expertise with exceptional leadership. They are more than just project managers — they are strategic leaders who take full ownership of delivering client outcomes and inspiring teams to perform at their best.
 
-### Key Dimensions of a PM Leader:
+### Key traits of an Agile PM Coach:
 
-1. Client-Centric Problem Solver. A PM Leader deeply understands client needs, ensuring that projects are aligned with business objectives and stakeholder expectations. They are proactive in resolving challenges, anticipating risks, and ensuring client satisfaction.
+1. Client-Centric Problem Solver. An Agile PM Coach deeply understands client needs, ensuring that projects are aligned with business objectives and stakeholder expectations. They are proactive in resolving challenges, anticipating risks, and ensuring client satisfaction.
 2. Strategic Delivery Expert. They create and manage effective project plans, ensuring timelines, budgets, and scope are met. More than just executing tasks, they focus on achieving impactful results and delivering high-quality solutions on schedule.
-3. Team Empowerer and Leader. A PM Leader doesn’t just manage tasks; they lead teams by fostering collaboration, motivating individuals, and enabling team members to succeed. They ensure the team is aligned, self-organizing, and performing at a high level, while coaching others toward growth.
-4. Trust Builder. A PM Leader is unwavering in their commitment to clear, open, and honest communication. They are fully accountable to their word, ensuring they follow through on commitments and maintain the highest level of integrity in all interactions. They are reliable, transparent, and build trust through consistency and authenticity.
-5. Growth driver. A PM Leader truly cares about Datopian as if it were their own company. They strive for excellence in project delivery and continuously look for ways to improve the organization. They also explore new business opportunities, identifying ways to grow client relationships and bring in new projects.
-6. Responsibility Champion. A PM Leader takes full responsibility for the success of their projects, ensuring that all aspects—from client communication to team performance—are handled with integrity and excellence. They consistently deliver results while upholding Datopian’s values of autonomy and initiative.
-7. Cultural Steward. PM Leaders exemplify and promote Datopian’s culture and principles. They live and breathe our values of self-organization, accountability, and excellence, ensuring that every project reflects the Datopian way of working.
+3. Team Empowerer and Leader. An Agile PM Coach doesn’t just manage tasks; they lead teams by fostering collaboration, motivating individuals, and enabling team members to succeed. They ensure the team is aligned, self-organizing, and performing at a high level, while coaching others toward growth.
+4. Trust Builder. An Agile PM Coach is unwavering in their commitment to clear, open, and honest communication. They are fully accountable to their word, ensuring they follow through on commitments and maintain the highest level of integrity in all interactions. They are reliable, transparent, and build trust through consistency and authenticity.
+5. Growth driver. An Agile PM Coach truly cares about Datopian as if it were their own company. They strive for excellence in project delivery and continuously look for ways to improve the organization. They also explore new business opportunities, identifying ways to grow client relationships and bring in new projects.
+6. Responsibility Champion. An Agile PM Coach takes full responsibility for the success of their projects, ensuring that all aspects—from client communication to team performance—are handled with integrity and excellence. They consistently deliver results while upholding Datopian’s values of autonomy and initiative.
+7. Cultural Steward. PAn Agile PM Coach exemplify and promote Datopian’s culture and principles. They live and breathe our values of self-organization, accountability, and excellence, ensuring that every project reflects the Datopian way of working.
 
 ## Areas of Mastery
 
-A PM Leader has competence in the following areas:
+An Agile PM Coach has competence in the following areas:
 
-**0. Prerequisites**
-- Effective meetings and clear communication.
-- Collecting and processing information.
-- Getting things done
-- Self-learning and continuous improvement.     
+**0. Foundational Competencies**  
+   - Prerequisites for Success: Cover essential PM skills like effective communication, clear meeting management, and a continuous improvement mindset. This includes “Showing Up Prepared” and actively learning to “Get Stuff Done Right and Fast.”
 
-**1. Client-Centered Problem Solving**
-- Conducting in-depth analysis of client needs and objectives to ensure alignment with project goals.
-- Anticipating and proactively addressing challenges, identifying risks early and implementing solutions to keep projects on track.
-- Delivering value-driven solutions that exceed client expectations and create measurable impact.
-- Maintaining strong alignment with stakeholders through transparent, consistent communication.
-- Seeking client feedback and incorporating insights to build lasting client relationships and satisfaction.
+**1. Extreme Ownership & Responsibility**  
+   - Owning It, No Matter What: Instill a deep sense of responsibility for outcomes. PM Leaders should step up in all scenarios, making informed decisions and driving solutions proactively, while demonstrating integrity and consistency ("Walking the Talk").
 
-**2. Strategic Delivery**
-- Gathering and analyzing client needs and expectations.
-- Creating well-structured project plans with timelines, budgets, and resource allocations.
-- Tracking and evaluating project performance against goals and KPIs.
-- Implementing quality assurance processes for deliverables.    
+**2. Client-Centered Problem Solving**  
+   - Client Understanding and Adaptation: Master SCQH (Situation, Complication, Question, Hypothesis) to deeply understand client needs, strategically solve issues, and shape projects to exceed expectations. This area encourages the “Aim for Awesome” mindset.
 
-**3. Team Empowerment and Leadership**
-- Fostering a collaborative team environment and facilitating communication.
-- Mentoring and coaching team members for skill enhancement and growth.
-- Resolving team conflicts and maintaining cohesion.
+**3. Strategic Delivery and Execution**  
+   - Planning, Prioritization, and Shipping: Emphasize effective project planning, focus during sprints, and maintaining quality through practices like “Shapeup.” This also includes efficient resource management and risk anticipation.
 
-**4. Trust Building**
-- Fostering open and transparent communication with clients and team members to create a culture of honesty.
-- Effectively articulating information and expectations to ensure clarity and alignment.
-- Upholding commitments and consistently delivering on promises to build reliability.
-- Cultivating strong relationships through genuine interactions and unwavering authenticity.
+**4. Team Empowerment and Effective Communication**  
+   - Empowering Teams to Excel: Focus on fostering collaboration, coaching, and creating a culture where team members are heard and valued. Skills like “Ask First, Don’t Assume” and “Verify, Don’t Just Trust” are vital for clarity and cohesion within teams.
 
-**5. Business Growth**
-- Identifying and pursuing new business opportunities to enhance organizational growth.
-- Analyzing workflows for process improvement and efficiency.
-- Deeply understanding our services and solutions to effectively align them with client needs and drive strategic initiatives.
+**5. Trust Building and Integrity**  
+   - Building and Maintaining Trust: Strengthen trust with both clients and teams through transparent communication and reliability. "Walking the Talk with Integrity" highlights consistency and follow-through in actions.
 
-**6. Responsibility and Accountability**
-- Taking ownership of project outcomes and ensuring high-quality task completion.
-- Modeling integrity and accountability, inspiring team members to uphold the same standards.
-- Engaging in self-reflection and feedback for continuous improvement.
+**6. Growth Orientation and Business Acumen**  
+   - Spotting Opportunities: Guide PM Leaders in recognizing growth opportunities, suggesting relevant upsells, and aligning solutions with client goals. This area also includes understanding Datopian’s service offerings to drive valuable, strategic outcomes.
 
-**7. Cultural Stewardship**
-- Exemplifying Datopian’s core values and promoting them within the team and organization.
-- Advocating for self-organization and empowering teams to take initiative in their work.
-- Coaching others and being coachable
+**7. Cultural Stewardship and Improvement Mindset**  
+   - Living the Datopian Values: Embrace cultural values like autonomy, self-organization, and continuous improvement. PM Leaders should “Show Up Prepared and Set the Stage” for effective meetings, continuously striving to optimize both their and their team’s performance.
 
 ## Preliminary list of topics
- 
-**1. Owning It, No Matter What**
-- Stepping up to take full responsibility for project success and team vibes.
-- Owning decisions and actions—even the tough ones—while inspiring others to do the same.
-- Shifting from reaction to action, tackling issues head-on to keep projects moving.    
-_https://www.datopian.com/playbook/culture#extreme-ownership-aka-100-responsibility_
 
-**2. Getting Stuff Done, Right and Fast**
+**1. Analyze: Check First, Then Charge**
+- Capturing Needs: Develop a systematic approach to gather and distinguish the needs of clients and users, ensuring that no critical requirements are overlooked.
+- Designing Effective Solutions: Utilize both existing and innovative tools to research and architect solutions that meet identified needs, fostering collaboration among team members to enhance creativity and efficacy.
+- Strategic Planning: Break down the design into manageable tasks, clearly define dependencies, and create a comprehensive roadmap that includes timelines and resources to ensure efficient delivery of the solution.       
+_https://www.datopian.com/playbook/dojo/analysis_
+
+ **2. Getting Stuff Done, Right and Fast**
 - Prioritizing tasks and managing time to hit deadlines with quality.
 - Using tools and methods to keep workflows clean and efficient.
 - Cultivating a “get it done” mentality that combines speed with attention to detail.     
 _https://www.datopian.com/playbook/getting-things-done_
 
-**3. Analyze: Check First, Then Charge**
-- Capturing Needs: Develop a systematic approach to gather and distinguish the needs of clients and users, ensuring that no critical requirements are overlooked.
-- Designing Effective Solutions: Utilize both existing and innovative tools to research and architect solutions that meet identified needs, fostering collaboration among team members to enhance creativity and efficacy.
-- Strategic Planning: Break down the design into manageable tasks, clearly define dependencies, and create a comprehensive roadmap that includes timelines and resources to ensure efficient delivery of the solution.       
-_https://www.datopian.com/playbook/dojo/analysis_
+**3. Owning It, No Matter What**
+- Stepping up to take full responsibility for project success and team vibes.
+- Owning decisions and actions—even the tough ones—while inspiring others to do the same.
+- Shifting from reaction to action, tackling issues head-on to keep projects moving.    
+_https://www.datopian.com/playbook/culture#extreme-ownership-aka-100-responsibility_
 
 **4. SCQH: Your Go-To Tool for Problem Solving**
 - Situation Assessment: Start with a clear overview of the current state, including relevant context and background information to ground the discussion.
@@ -153,28 +133,70 @@ _https://www.datopian.com/playbook/integrity_
 - Practicing smart, relevant upselling to enhance client experience and project impact.
 - Sharing ideas and examples to highlight additional ways we can add value.     
 
+## Structure of the Program
 
-## Structure of the PM Leaders Program
-The PM Leaders Program is designed to provide a comprehensive learning experience, blending theoretical knowledge with practical application. The program is structured more like a business school class than a traditional course, emphasizing case studies and interactive discussions centered around real-world project scenarios.
+1. **Foundation Phase**: Core Competencies
+   - Focus: Essential PM skills, communication, meeting management, and productivity.
+   - Modules:
+     - **Getting Stuff Done, Right and Fast**
+     - **Show Up Prepared and Set the Stage**
 
-The program is divided into 3 phases:
+2. **Ownership and Responsibility**: Developing Leadership
+   - Focus: Deep responsibility, decision-making, and proactive problem-solving.
+   - Modules:
+     - **Owning It, No Matter What**
 
-**Phase I: Technical Foundations**
-Phase I focuses on the essential skills of project management, emphasizing dimensions 1 and 2: “Client-Centric Problem Solving” and “Strategic Delivery.” During this phase, participants will engage in three key projects:
-Project A: 
-Project B: 
-Project C: 
+3. **Client-Centric Problem Solving**: Strategic Insight
+   - Focus: Understanding client needs, problem analysis, and high-impact solutions.
+   - Modules:
+     - **Analyze: Check First, Then Charge**
+     - **SCQH: Your Go-To Tool for Problem Solving**
 
-**Phase II: Leadership Development**
-Phase II shifts the focus to leadership skills and examines dimensions 3 and 4: “Team Empowerment and Leadership” and “Trust Building.” This phase will include:
-Leadership Project: 
-Client Engagement: 
-Continuous Improvement Initiative: 
+4. **Strategic Delivery**: Planning and Execution
+   - Focus: Project planning, risk management, and high-quality execution.
+   - Modules:
+     - **Shapeup: Stop Running in Circles and Ship Work that Matters**
+     - **Verify, Don’t Just Trust (Especially with Devs)**
 
-**Phase III: Cultural Stewardship and Growth**
-Phase III centers on dimensions 5, 6, and 7: “Growth Driver,” “Responsibility Champion,” and “Cultural Steward.” This phase emphasizes the importance of organizational values and proactive leadership. Key components include:
-Cultural Advocacy Project: 
-Business Development Initiative: 
-Mentorship and Coaching: 
+5. **Team Empowerment**: Collaboration and Coaching
+   - Focus: Fostering a collaborative culture, enabling team growth.
+   - Modules:
+     - **Ask First, Don’t Assume**
+     - **Aim for Awesome, Not Just “Good Enough”**
+
+6. **Trust Building and Integrity**: Consistent Leadership
+   - Focus: Building reliability through clear communication and follow-through.
+   - Modules:
+     - **Walking the Talk with Integrity**
+
+7. **Growth Orientation and Business Acumen**: Adding Value
+   - Focus: Identifying opportunities, client relationship management.
+   - Modules:
+     - **Spotting Growth Opportunities with Clients**
+     - **Aim for Awesome, Not Just “Good Enough”**
+
+8. **Cultural Stewardship**: Living Datopian Values
+   - Focus: Embracing and promoting organizational values.
+   - Modules:
+     - **Responsibility Champion**
+     - **Cultural Steward**
+
+---
+
+### **Format and Timeline**
+- **Duration**: Approx. 12-16 weeks.
+- **Weekly Modules**: Cover each module through workshops, case studies, and Q&A sessions.
+- **Hands-On Assignments**: Real-time tasks related to active projects.
+- **Peer and Coach Feedback**: Feedback loops for growth and self-improvement.
+- **Final Project**: Participants must lead a project or project component, demonstrating all learned skills.
+
+---
+
+### **Program Outcomes**
+Participants will develop into Agile PM Coaches, equipped to manage complex projects with strategic insight, client empathy, and team leadership. The program will ensure PMs embody Datopian’s values, drive impactful results, and foster a culture of continuous improvement.
+
+--- 
+
+This structure provides a balanced mix of theory, practical application, and team dynamics, ensuring growth across all core competencies.
 
 ## Evaluation criteria 
