@@ -174,7 +174,7 @@ _https://www.datopian.com/playbook/integrity_
    - Focus: Identifying opportunities, client relationship management, embracing and promoting organizational values.
    - Modules:
      - **Spotting Growth Opportunities with Clients**
-     - **Cultural Steward** 
+     - **Bein a Cultural Steward** 
 
 
 ### **Format and Timeline**
