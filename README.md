@@ -178,7 +178,7 @@ _https://www.datopian.com/playbook/integrity_
 
 
 ### **Format and Timeline**
-- **Duration**: Approx. 8 weeks.
+- **Duration**: Approx. 12-16 weeks.
 - **Weekly Modules**: Each module consists of 2 sessions. 
 - **Hands-On Assignments**: Real-time tasks related to active projects.
 - **Peer and Coach Feedback**: Feedback loops for growth and self-improvement.
