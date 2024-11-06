@@ -20,14 +20,11 @@ Anyone at Datopian may apply to participate in the program and acceptance into t
 
 ## Commitment and Agreements
 
-1. Attend 2 hours of classroom sessions per week. Ensure at least 90% attendance and active participation in all sessions.
-2. Be coachable and open to feedback. Embrace feedback with an open mind and actively work on integrating it into your leadership style.
-3. Be punctual and prepared. Arrive on time, ready to engage with the content and contribute to discussions.
-4. Complete all assignments on time. Dedicate yourself to completing all assigned work and projects, with a focus on quality and learning.
-5. Bring curiosity and engagement. Approach each session with a mindset of discovery, asking questions, and contributing ideas.
-6. Be accountable for your growth and leadership. Take ownership of your development, consistently reflecting on feedback and applying new insights.
-7. Be a stand for integrity and excellence. Uphold high standards for yourself and support others in doing the same, ensuring that you contribute to a culture of trust and accountability.
-8. Practice leadership in all aspects. Show up as a leader in every interaction—whether in classrooms, team discussions, or client meetings.
+1. Show Up Ready to Grow: Join each session prepared and bring your curiosity.
+2. Embrace Feedback: Embrace feedback with an open mind and actively work on integrating it into your leadership style.
+3. Follow Through: Complete assignments thoughtfully and on time—they’re key to your progress.
+4. Listen Critically: Question ideas, dig deeper, and engage actively in discussions.
+5. Own Your Journey: Take responsibility for your development by applying new insights and evolving continuously.
 
 ## What is a "PM Leader"?
 
