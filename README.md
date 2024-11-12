@@ -39,7 +39,7 @@ An Agile PM Coach at Datopian is someone who consistently drives projects to suc
 4. Trust Builder. An Agile PM Coach is unwavering in their commitment to clear, open, and honest communication. They are fully accountable to their word, ensuring they follow through on commitments and maintain the highest level of integrity in all interactions. They are reliable, transparent, and build trust through consistency and authenticity.
 5. Growth driver. An Agile PM Coach truly cares about Datopian as if it were their own company. They strive for excellence in project delivery and continuously look for ways to improve the organization. They also explore new business opportunities, identifying ways to grow client relationships and bring in new projects.
 6. Responsibility Champion. An Agile PM Coach takes full responsibility for the success of their projects, ensuring that all aspects—from client communication to team performance—are handled with integrity and excellence. They consistently deliver results while upholding Datopian’s values of autonomy and initiative.
-7. Cultural Steward. PAn Agile PM Coach exemplify and promote Datopian’s culture and principles. They live and breathe our values of self-organization, accountability, and excellence, ensuring that every project reflects the Datopian way of working.
+7. Cultural Steward. An Agile PM Coach exemplifies and promotes Datopian’s culture and principles. They live and breathe our values of self-organization, accountability, and excellence, ensuring that every project reflects the Datopian way of working.
 
 ## Areas of Mastery
 
