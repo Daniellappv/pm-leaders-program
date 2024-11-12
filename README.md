@@ -180,7 +180,7 @@ _https://www.datopian.com/playbook/integrity_
 
 ### **Format and Timeline**
 - **Duration**: Approx. 12-14 weeks.
-- **Weekly Modules**: Each of the 7 phases consists of 2 modules. 
+- **Weekly Modules**: Each of the 7 phases consists of modules.
 - **Hands-On Assignments**: Real-time tasks related to active projects.
 - **Peer and Coach Feedback**: Feedback loops for growth and self-improvement.
 - **Final Project**: Participants must lead a project or project component, demonstrating all learned skills.
@@ -217,8 +217,8 @@ If the person meets the minimum requirements in each of these areas, they can be
 ## Appendix
 
 - First Draft Planning & Curriculum Development - by eop Wed, 6th of Nov ✅
-- Receiving feedback - by eop Fri, 8th of Nov 🚧
-- Implementing feedback and refining - by eop Wed, 13th of Nov
+- Receiving feedback - by eop Fri, 8th of Nov ✅
+- Implementing feedback and refining - by eop Wed, 13th of Nov ✅
 - Content Creation - in phases:
   - Starting phase by phase, module by module
   - Each phase is to be finished within a week, ie. by the end of the year, all phases and modules should be 100% done.
