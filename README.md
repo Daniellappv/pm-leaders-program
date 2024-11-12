@@ -156,12 +156,13 @@ _https://www.datopian.com/playbook/integrity_
    - Focus: Project planning, risk management, and high-quality execution.
    - Modules:
      - **Shapeup: Stop Running in Circles and Ship Work that Matters**
-     - **Verify, Don’t Just Trust (Especially with Devs)**
+     - **Spot Risks Before They Spot You: Tools to Uncover and Assess Threats (Like SWOTs and Risk Matrices)**
 
 5. **Team Empowerment**: Collaboration and Coaching
    - Focus: Fostering a collaborative culture, enabling team growth.
    - Modules:
      - **Ask First, Don’t Assume**
+     - **Verify, Don’t Just Trust (Especially with Devs)**
      - **Aim for Awesome, Not Just “Good Enough”**
 
 6. **Trust Building and Integrity**: Consistent Leadership
