@@ -57,9 +57,37 @@ That’s the power of preparation—it transforms meetings from chaotic and open
 “Remember, preparation isn’t just about getting ready for others; it’s about respecting your time and the time of those around you. When you show up prepared, you empower your team, foster trust, and set a precedent for accountability. Aim to be the PM that turns meetings into decisive, productive, and motivating sessions. The more intentional your preparation, the more impactful your meetings will be.”
 
 
-Here's a detailed and comprehensive script for the "Defining Goals and Desired Outcomes" section:
-
 ### **3. Defining Goals and Desired Outcomes (15 minutes)**
+
+### **Techniques and Tips for Defining Goals and Desired Outcomes**
+
+1. **Be Specific and Clear**:
+   - **Why It’s Important**: Vague goals lead to confusion and lack of direction. Clear, specific goals provide a roadmap for the meeting.
+   - **Tip**: Instead of "discuss project status," say "finalize the milestones for the next sprint."
+
+2. **Align with Stakeholder Needs**:
+   - **Why It’s Important**: Your goals should match the priorities of those involved to ensure the meeting is relevant and valuable.
+   - **Tip**: Understand what stakeholders need from the meeting and tailor your goals to address those needs.
+
+3. **Set Measurable Outcomes**:
+   - **Why It’s Important**: Measurable outcomes help you evaluate whether the meeting was successful and whether goals were achieved.
+   - **Tip**: Use concrete, quantifiable outcomes, like "agree on three action items" or "resolve two major blockers."
+
+4. **Focus on Actionable Results**:
+   - **Why It’s Important**: Goals should lead to clear next steps, not just discussions. This keeps everyone accountable and ensures progress.
+   - **Tip**: Frame goals around actions, like "assign tasks for the next phase" or "make a decision on feature prioritization."
+
+5. **Prioritize the Most Critical Points**:
+   - **Why It’s Important**: Not all goals are equal. Focusing on the most important ones ensures that the meeting delivers value.
+   - **Tip**: Rank your meeting goals and make sure you tackle the highest-priority ones first.
+
+---
+
+### **Example**:
+- **Vague Goal**: "Discuss project progress."
+- **Clear Goal**: "Review the current progress on feature development, identify any blockers, and decide on the top 3 features to prioritize for the next sprint."
+
+This clear goal is actionable, focused, and leads to a specific outcome, making the meeting more efficient and purposeful.
 
 **[Opening Statement]**
 “Moving from preparation to purposeful execution requires clear, actionable goals. The difference between a productive meeting and one that meanders aimlessly often comes down to how well you’ve defined your objectives. Let’s dive into why setting meeting goals and expected outcomes is essential and how to structure your discussions to achieve them.”
