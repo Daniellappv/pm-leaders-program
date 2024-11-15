@@ -1,13 +1,17 @@
+Preparation is the backbone of productive meetings, and as project managers, how we show up shapes the entire conversation. Today, I want to break down why preparation matters and share practical techniques that will make your meetings more focused and impactful.
+
 ## Overview 
 
 1. Intro
 2. The power of preparation
-3. Setting clear intentions and outcomes
-4. Aligning for action and follow-through
-5. Real-Life examples
-6. Assignment
-7. Q&A
-
+3. Techniques for powerful preparation
+   - Know the context and always RECAP
+   - Setting clear intentions and desired outcomes
+   - Capture actions and agreements
+   - Follow-through: Summarize takeaways and actions agreed via email 
+6. Real-Life examples
+7. Assignment
+8. Q&A
 
 ### **2. The Power of preparation (10 minutes)**
 
@@ -19,24 +23,42 @@ Preparing for a meeting is crucial because it sets the stage for a productive an
 4. **Boosts Efficiency**: Structured meetings move faster, minimizing tangents and achieving results within the time frame.
 5. **Ensures Accountability**: Preparation supports clear outcomes and action items, facilitating follow-through and progress.
 
-Overall, preparation transforms meetings from time-wasting activities into strategic, outcome-driven sessions that propel projects forward.
+When you show up prepared, you set the tone for everyone else. It’s like walking into a room where the lights are already on, the seats are arranged, and the agenda is clear—people immediately feel a sense of direction. 
 
-**[Opening Statement]**
-“Think of any successful meeting you’ve been part of. Chances are, it didn’t just happen by accident. Preparation is the backbone of productive meetings, and as project managers, how we show up shapes the entire conversation. Today, I want to break down why preparation matters and share practical techniques that will make your meetings more focused and impactful.”
+**Arriving with clear intentions means you’ve thought about what you want out of this meeting. It’s not just about going through the motions; it’s about being intentional with your time and everyone else’s. Your role as a PM is not just to participate but to guide the process toward meaningful outcomes.**
 
-**[Discuss the Importance of Arriving with Clear Intentions]**
-“When you show up prepared, you set the tone for everyone else. It’s like walking into a room where the lights are already on, the seats are arranged, and the agenda is clear—people immediately feel a sense of direction. 
+Overall, preparation transforms meetings from time-wasting activities into strategic, outcome-driven sessions that move projects forward. 
 
-Arriving with clear intentions means you’ve thought about what you want out of this meeting. It’s not just about going through the motions; it’s about being intentional with your time and everyone else’s. Your role as a PM is not just to participate but to guide the process toward meaningful outcomes. 
+---------
 
-Remember: Meetings without preparation are like sailing without a map. You might be moving, but you’re not sure where you’re heading.”
+Now, let’s go over some specific techniques to prepare effectively...
 
-**[Share Tips for Effective Preparation]**
-“Now, let’s go over some specific techniques to prepare effectively:
+### **3. Techniques for powerful preparation: Know the context and always RECAP**
 
-1. **Research Thoroughly**:
-   - **Know the Context**: Ensure you’re up-to-date on any background information relevant to the meeting. Read project updates, review data, or revisit past meeting notes.
-   - **Anticipate Questions**: Think about what your team might ask or what blockers could come up. Having answers or at least initial thoughts ready shows you’re engaged and proactive.
+### **Script for Slide: Techniques for Powerful Preparation – Know the Context and Always RECAP**
+
+One of the most powerful techniques for ensuring impactful meetings is mastering the art of knowing the context and starting with a RECAP. Let’s break this down.
+
+**1. Know the Context**:
+Before any meeting, take the time to fully immerse yourself in the project’s current status. This means reviewing any relevant updates, re-reading previous meeting notes, checking data, and understanding any recent changes that could impact the discussion. When you know the context, you’re not just showing up; you’re bringing the insight and awareness that guides meaningful dialogue.
+
+Imagine walking into a client meeting where you’re prepared with recent progress data, client feedback, and potential issues already mapped out. You can then lead with confidence, knowing that any question or concern won’t catch you off guard.
+
+**2. Anticipate Questions**:
+Don’t just prepare for what *you* need to say—anticipate what *they* might need to ask. This proactive step involves thinking ahead to potential questions or challenges that could arise. By preparing answers or at least initial thoughts, you set the stage for a meeting that flows smoothly and showcases your readiness.
+
+For instance, if you’re meeting about a project milestone, think ahead: Will someone ask about dependencies? Are there risks you should address first? Already having answers to these questions would create an atmosphere of trust, safety and respect.
+
+**3. RECAP**:
+Always start the meeting with a brief RECAP of what was discussed last time. This ensures everyone’s on the same page and avoids redundant conversations. Summarize key decisions, progress made, and any outstanding action items. It’s like resetting the stage so the conversation can pick up momentum without confusion.
+
+**All in all**:
+Knowing the context, anticipating questions, and starting with a RECAP aren’t just preparation techniques—they’re how you transform meetings from routine check-ins to strategic sessions that propel your projects forward. Remember: The more you prepare, the more confident and effective you become.
+
+
+---
+
+### 4. **Techniques for powerful preparation: Setting clear intentions and desired outcomes**
 
 2. **Set Clear Goals**:
    - **Define the Purpose**: Every meeting should have a primary goal. Whether it's making a decision, brainstorming ideas, or aligning on the next steps, write down the purpose and desired outcome.
@@ -46,15 +68,8 @@ Remember: Meetings without preparation are like sailing without a map. You might
    - **Prepare Talking Points**: List key topics that need to be addressed to meet your goal. This helps structure the meeting and ensures no essential detail is overlooked.
    - **Plan Your Conclusion**: Always have a clear idea of how you want to wrap up the meeting and what the next steps should be. This way, you can guide discussions to a logical endpoint.
 
-**[Example: How Preparation Improves Productivity and Drives Results]**
-“To illustrate how impactful preparation can be, I’d like to share a brief example. A few months ago, we had a critical meeting with a new client to discuss the roadmap for their data integration project. Before the meeting, I reviewed their business needs, prepared specific questions to highlight potential challenges, and mapped out a step-by-step approach to discuss implementation. 
-
-When the meeting started, I laid out these prepared questions and action points. It shifted the conversation from vague brainstorming to targeted problem-solving. We ended up finishing the discussion ahead of schedule with a clear, mutually agreed-upon roadmap. The client not only appreciated our efficiency but felt more confident in our capability to manage their project. 
-
-That’s the power of preparation—it transforms meetings from chaotic and open-ended to structured and result-oriented.”
-
 **[Inspirational Closing]**
-“Remember, preparation isn’t just about getting ready for others; it’s about respecting your time and the time of those around you. When you show up prepared, you empower your team, foster trust, and set a precedent for accountability. Aim to be the PM that turns meetings into decisive, productive, and motivating sessions. The more intentional your preparation, the more impactful your meetings will be.”
+“Remember, preparation isn’t just about getting ready for others; it’s about respecting your time and the time of those around you. When you show up prepared, you empower your team, foster trust, and set a precedent for accountability. Aim to be the PM that turns meetings into decisive, productive, and motivating sessions. The more intentional your preparation, the more impactful your meetings will be.
 
 
 ### **3. Defining Goals and Desired Outcomes (15 minutes)**
