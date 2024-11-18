@@ -55,21 +55,35 @@ Always start the meeting with a brief RECAP of what was discussed last time. Thi
 **All in all**:
 Knowing the context, anticipating questions, and starting with a RECAP aren’t just preparation techniques—they’re how you transform meetings from routine check-ins to strategic sessions that propel your projects forward. Remember: The more you prepare, the more confident and effective you become.
 
-
 ---
 
-### 4. **Techniques for powerful preparation: Setting clear intentions and desired outcomes**
+### 4. **Techniques for powerful preparation: Capture actions and agreements**
 
-2. **Set Clear Goals**:
-   - **Define the Purpose**: Every meeting should have a primary goal. Whether it's making a decision, brainstorming ideas, or aligning on the next steps, write down the purpose and desired outcome.
-   - **Be Specific**: A goal like ‘aligning the project scope’ is vague. Instead, phrase it as ‘clarifying tasks for the next sprint and assigning ownership.’ This makes it clear what ‘success’ looks like for the meeting.
+### **Script for Slide: Remember to Capture Actions and Agreements**
 
-3. **Identify Action Points**:
-   - **Prepare Talking Points**: List key topics that need to be addressed to meet your goal. This helps structure the meeting and ensures no essential detail is overlooked.
-   - **Plan Your Conclusion**: Always have a clear idea of how you want to wrap up the meeting and what the next steps should be. This way, you can guide discussions to a logical endpoint.
+Meetings can be full of great ideas and productive discussions, but without capturing actions and agreements, those valuable moments are easily lost. One of the most effective techniques to ensure follow-through and accountability is to capture everything that matters during the meeting.
 
-**[Inspirational Closing]**
-“Remember, preparation isn’t just about getting ready for others; it’s about respecting your time and the time of those around you. When you show up prepared, you empower your team, foster trust, and set a precedent for accountability. Aim to be the PM that turns meetings into decisive, productive, and motivating sessions. The more intentional your preparation, the more impactful your meetings will be.
+**1. Why Capture Matters**:
+“Think of meetings where decisions were made, but no one documented the next steps—confusion follows, progress stalls, and the same issues resurface at the next meeting. Capturing actions and agreements ensures that everyone knows what’s expected of them and by when. It turns conversations into concrete plans.”
+
+**Example Script**:
+“Imagine a meeting where you agree on timelines and assign responsibilities, but nothing gets written down. A week later, people remember different things, and deadlines get missed. Now, picture the opposite: you’ve captured clear action items in real-time, and everyone receives a summary afterward. It’s a game changer for clarity and productivity.”
+
+**2. Techniques for Effective Capture**:
+“Here’s how to capture effectively:
+
+- **Assign a Notetaker or Take Control**: Designate someone to take notes or take charge of it yourself if you’re leading the meeting. Don’t rely on memory alone.
+- **Be Specific**: Record who is responsible for each task, what they need to do, and by when. For example, instead of writing ‘Update report,’ note ‘John to update the quarterly report by next Wednesday.’
+- **Clarify Agreements**: Summarize any decisions made and agreements reached to confirm that everyone is aligned before moving on.
+
+**3. Confirm Before Ending**:
+“Before the meeting wraps up, take a minute to go over the captured actions and agreements aloud. This final review helps reinforce accountability and ensures that everyone leaves the meeting on the same page.”
+
+**Example Script**:
+“Say you’re concluding a project update meeting. You’ve noted tasks like ‘Sarah to prepare the new client presentation by Friday’ and ‘Team to review the client feedback by Monday.’ Reading these aloud confirms that everyone understands their part and the timelines.”
+
+**Closing Statement**:
+“Capturing actions and agreements isn’t just an administrative step; it’s how you move projects forward efficiently. Meetings end, but progress continues only when everyone knows what comes next. Be the PM who transforms discussions into actionable plans, and watch your team’s momentum soar.”
 
 
 ### **3. Defining Goals and Desired Outcomes (15 minutes)**
