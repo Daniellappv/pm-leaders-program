@@ -33,7 +33,7 @@ Overall, preparation transforms meetings from time-wasting activities into strat
 
 Now, let’s go over some specific techniques to prepare effectively...
 
-### **3. Techniques for powerful preparation: Know the context and always RECAP**
+### **1. Techniques for powerful preparation: Know the context and always RECAP**
 
 One of the most powerful techniques for ensuring impactful meetings is mastering the art of knowing the context and starting with a RECAP. Let’s break this down.
 
@@ -55,7 +55,19 @@ Knowing the context, anticipating questions, and starting with a RECAP aren’t 
 
 ---
 
-### 4. **Techniques for powerful preparation: Capture actions and agreements**
+### 2. **Techniques for powerful preparation: Setting clear intentions and desired outcomes**
+
+What is the WHY? Why is this meeting scheduled? What's the goal?
+
+- **Define the purpose:** Every meeting should have a primary goal. Whether it's making a decision, brainstorming ideas, or aligning on the next steps, write down the purpose and desired outcome.
+- **Be specific:** A goal like ‘aligning the project scope’ is vague. Instead, phrase it as ‘clarifying tasks for the next sprint and assigning ownership.’ This makes it clear what ‘success’ looks like for the meeting.
+- **Cancel without a clear ‘WHY’**: If, after planning, you realize there isn’t a strong purpose or the meeting won’t contribute meaningfully to project progress, cancel it. This saves time and shows respect for everyone’s schedule.
+- **Prepare talking points:** List key topics that need to be addressed to meet your goal. This helps structure the meeting and ensures no essential detail is overlooked.
+- **Plan your conclusion:** Always have a clear idea of how you want to wrap up the meeting and what the next steps should be. This way, you can guide discussions to a logical endpoint.
+
+Remember, preparation isn’t just about getting ready for others; it’s about respecting your time and the time of those around you. When you show up prepared, you empower your team, foster trust, and set a precedent for accountability. Aim to be the PM that turns meetings into decisive, productive, and motivating sessions. The more intentional your preparation, the more impactful your meetings will be.
+
+### 3. **Techniques for powerful preparation: Capture actions and agreements**
 
 Meetings can be full of great ideas and productive discussions, but without capturing actions and agreements, those valuable moments are easily lost. One of the most effective techniques to ensure follow-through and accountability is to capture everything that matters during the meeting.
 
@@ -141,9 +153,3 @@ The PM enters a progress review meeting without preparing updates or reviewing p
 
 **Prepared**:  
 Before the meeting, the PM reviews project milestones, compiles updates, and anticipates client concerns. They prepare a simple slide deck summarizing progress, risks, and mitigation plans. During the meeting, the PM confidently presents the updates and proposes next steps. The client feels reassured, appreciates the transparency, and trusts the PM’s ability to manage the project effectively.  
-
-
-
-
-**Be Ready to Cancel if Needed**:
-   - **Cancel Without a Clear ‘WHY’**: If, after planning, you realize there isn’t a strong purpose or the meeting won’t contribute meaningfully to project progress, cancel it. This saves time and shows respect for everyone’s schedule.
