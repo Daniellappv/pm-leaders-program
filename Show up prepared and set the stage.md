@@ -75,17 +75,18 @@ Meetings can be full of great ideas and productive discussions, but without capt
 **1. Why capture matters**:
 Think of meetings where decisions were made, but no one documented the next steps—confusion follows, progress stalls, and the same issues resurface at the next meeting. Capturing actions and agreements ensures that everyone knows what’s expected of them and by when. It turns conversations into concrete plans.
 
-**2. Techniques for effective capture**:
+**2. The ‘What, Who, When’ Rule:** Define what needs to be done, who is responsible, and when it will be completed.
+
+**3. Techniques for effective capture**:
 Here’s how to capture effectively:
 
 - **Assign a Notetaker or take control**: Designate someone to take notes or take charge of it yourself if you’re leading the meeting. Don’t rely on memory alone.
 - **Be specific**: Record who is responsible for each task, what they need to do, and by when. For example, instead of writing ‘Update report,’ note ‘John to update the quarterly report by next Wednesday.’
 - **Clarify agreements**: Summarize any decisions made and agreements reached to confirm that everyone is aligned before moving on.
 
-**3. Confirm Before Ending**:
+**4. Confirm Before Ending**:
 Before the meeting wraps up, take a minute to go over the captured actions and agreements aloud. This final review helps reinforce accountability and ensures that everyone leaves the meeting on the same page.
 
-**Closing Statement**:
 Capturing actions and agreements isn’t just an administrative step; it’s how you move projects forward efficiently. Meetings end, but progress continues only when everyone knows what comes next. Be the PM who transforms discussions into actionable plans.
 
 ---
