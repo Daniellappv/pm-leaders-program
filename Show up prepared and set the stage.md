@@ -40,6 +40,7 @@ What is the WHY? Why is this meeting scheduled? What's the goal?
 - **Define the purpose:** Every meeting should have a primary goal. Whether it's making a decision, brainstorming ideas, or aligning on the next steps, write down the purpose and desired outcome.
 - **Be specific:** A goal like ‘aligning the project scope’ is vague. Instead, phrase it as ‘clarifying tasks for the next sprint and assigning ownership.’ This makes it clear what ‘success’ looks like for the meeting.
 - **Cancel without a clear ‘WHY’**: If, after planning, you realize there isn’t a strong purpose or the meeting won’t contribute meaningfully to project progress, cancel it. This saves time and shows respect for everyone’s schedule.
+- **Are all these people really needed**: Once you know the purpose/goal, ask yourself - are all these people really needed? Maybe some of them are needed just for the first 10 minutes. Others are optional.
 - **Prepare talking points:** List key topics that need to be addressed to meet your goal. This helps structure the meeting and ensures no essential detail is overlooked.
 - **Plan your conclusion:** Always have a clear idea of how you want to wrap up the meeting and what the next steps should be. This way, you can guide discussions to a logical endpoint.
 
