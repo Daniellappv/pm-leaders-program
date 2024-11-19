@@ -1,3 +1,5 @@
+Link to slide deck: https://docs.google.com/presentation/d/1Kb8AopyAFylPciDLBzYYSl0KRyKVh8q94HOK-xR5OVg/edit#slide=id.g136ae068546_2_262
+
 Preparation is the backbone of productive meetings, and as project managers, how we show up shapes the entire conversation. Today, I want to break down why preparation matters and share practical techniques that will make your meetings more focused and impactful.
 
 ## Overview 
