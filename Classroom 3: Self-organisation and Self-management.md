@@ -19,3 +19,6 @@
 - Tip 4: No goal, means “no go”
 - Tip 4 in Action (Always ask “why”)
 - Tip 5: Perform a Retrospective
+- Tip 5 in Action (Self Retrospective)
+- Class Exercise
+- Assignment
