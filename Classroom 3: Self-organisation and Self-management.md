@@ -1,4 +1,4 @@
-## Class room 3: Self-Organisation and Self-Management (Tips and Principles)
+## Classroom 3: Self-Organisation and Self-Management (Tips and Principles)
 
 **Link to slide deck:** [To be provided]
 
