@@ -1,8 +1,10 @@
 ## Classroom 3: Self-Organisation and Self-Management (Tips and Principles)
 
+**Objective:** equipping you with the knowledge to practice/apply self-organisation and self-management in the real world
+
 **Link to slide deck:** [Slide Deck](https://docs.google.com/presentation/d/1iFwlxBDIHfLmeTDEcx73QcQXnwZ_L6Xl2cSYaqpSzLI/edit?usp=sharing)
 
-**Objective:** equipping you with the knowledge to practice/apply self-organisation and self-management in the real world
+**Link to Video Record of Classroom Session**: [Video Recording of Classroom Session](https://drive.google.com/file/d/175iUcNf8JsvFwjCS2Gsgpqe-QnrdvRrl/view?usp=drive_link)
 
 ---
 ### Class content
