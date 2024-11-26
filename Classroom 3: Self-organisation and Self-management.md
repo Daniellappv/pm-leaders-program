@@ -1,6 +1,6 @@
 ## Classroom 3: Self-Organisation and Self-Management (Tips and Principles)
 
-**Link to slide deck:** [To be provided]
+**Link to slide deck:** [Slide Deck](https://datahub.io/@Daniellappv/pm-leaders-program/Classroom+3%3A+Self-organisation+and+Self-management)
 
 **Objective:** equipping you with the knowledge to practice/apply self-organisation and self-management in the real world
 
