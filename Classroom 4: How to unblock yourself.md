@@ -24,6 +24,29 @@
 
 ---
 
+### Intention and what to expect
+
+### Insights and Materials for the First Slide: "What to Expect from This Classroom"
+
+**Purpose of the session**  
+This classroom is about building a practical, problem-solving mindset for project managers. It is very important to be proactive, resourceful, and self-reliant when faced with blockers.
+
+**Why it matters**  
+- Faster resolution of issues reduces project delays.
+- Builds confidence in navigating uncertainties independently.
+- Enhances team collaboration by focusing on solutions, not problems.
+
+**Learning outcomes**  
+- Understand how to define and break down problems effectively.
+- Learn to leverage readily available tools like Google and ChatGPT for solutions.
+- Gain strategies to collaborate efficiently with peers by presenting clear recommendations.
+
+**Engagement tips**  
+HANDS-ON SESSION
+- Would like to encourage participation in discussions and activities. Bring in real-life examples and blockers. 
+- No blocker is “too small” to explore.
+- Let's have an interactive and practical learning experience.
+
 ### **Step 1: Think and write down the problem (10 minutes)**  
 
 Keeping the problem in your head often makes it feel bigger than it is. Writing it down forces you to articulate and structure it.
