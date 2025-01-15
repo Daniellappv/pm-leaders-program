@@ -44,13 +44,25 @@
 
 ### **4. Sharing Best Practices (15 minutes)**  
 **Objective:** Offer practical advice to improve task management and accountability.  
-- **Advice & Tools:**  
-  1. **Clear Expectations:** Always confirm the task, deadline, and deliverables in writing (email, task manager).  
-  2. **Break Tasks into Steps:** Avoid overwhelming tasks; split them into actionable items.  
-  3. **Time Management:** Use techniques like time blocking or prioritization frameworks (e.g., Eisenhower Matrix).  
-  4. **Track Progress:** Use a shared tool (e.g., Trello, Asana) to track tasks and updates.  
-  5. **Transparency:** If you face roadblocks or delays, communicate early and honestly.  
-  6. **Self-Check:** Before confirming a task is done, ensure you’ve reviewed and verified it.  
+
+### 5 Top Practices for Processing Tasks Effectively in a Remote Environment  
+
+1. **The 2-Minute Rule:**  
+   - If a task takes less than 2 minutes, do it immediately. This prevents small tasks from piling up and helps maintain momentum.  
+
+2. **Time Blocking for Deep Work:**  
+   - Dedicate specific chunks of your day to focused work. Use your calendar to block time for high-priority tasks and protect it from interruptions.  
+
+3. **Daily Task Prioritization:**  
+   - Start your day by listing your top 3 priorities. Focus on completing these first before moving on to less critical tasks. Tools like the Eisenhower Matrix can help.  
+
+4. **Single Source of Truth:**  
+   - Use a centralized task management tool (e.g., Asana, Trello, Notion) to track all tasks, deadlines, and updates. Avoid scattered to-do lists across emails, chats, or notebooks.  
+
+5. **Clear Communication & Accountability:**  
+   - For every task:  
+     - Document *what* needs to be done, *when* it’s due, and *who* is responsible.  
+     - Use calendar reminders or recurring tasks for follow-ups and status checks.  
 
 ---
 
