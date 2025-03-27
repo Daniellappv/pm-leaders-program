@@ -2,9 +2,9 @@
 
 **Objective:** understanding what Critical Thinking is and why it's important (not just a buzzword); understanding/applying Critical Thinking tools and getting results
 
-**Link to slide deck:** 
+**Link to slide deck:** https://docs.google.com/presentation/d/1gU5_l0bTymVpHDq8gR4UoRJGD3sAP3PnPw9Cwqp5vQo/edit?usp=sharing
 
-**Link to Video Record of Classroom Session**: 
+**Link to Video Record of Classroom Session**: _coming soon_
 
 ---
 ### Class content
