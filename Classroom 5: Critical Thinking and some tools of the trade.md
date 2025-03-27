@@ -4,7 +4,7 @@
 
 **Link to slide deck:** [Slide Deck](https://docs.google.com/presentation/d/1gU5_l0bTymVpHDq8gR4UoRJGD3sAP3PnPw9Cwqp5vQo/edit?usp=sharing)
 
-**Link to Video Record of Classroom Session**: _coming soon_
+**Link to Video Record of Classroom Session**: [Video Recording](https://drive.google.com/file/d/1wysH6snxEo9ynA_AG4w6Lmghi7Hd6-7A/view?usp=sharing)
 
 ---
 ### Class content
