@@ -63,7 +63,7 @@ As project managers, we’re constantly juggling tasks, teams, and deadlines. Re
 
 **The Good: The Strategic Reward (3 min)**
 
-1. **Reward #1: Deep-Work Flow State & Quality Assurance. **For high-complexity tasks (e.g., core system development, complex integrations), uninterrupted deep work is essential for quality. Remote work is the best environment for achieving this Flow State, resulting in lower bug rates and better architectural design.
+1. **Reward #1: Deep-Work Flow State & Quality Assurance.** For high-complexity tasks (e.g., core system development, complex integrations), uninterrupted deep work is essential for quality. Remote work is the best environment for achieving this Flow State, resulting in lower bug rates and better architectural design.
 2. **Reward #2: Global Talent Arbitrage.** Your competitive advantage is no longer proximity; it's access to the absolute best, most specialized talent in the world, regardless of cost-of-living differences. This directly impacts the quality and speed of project delivery.
 3. **Reward #3: High-Trust Model $\rightarrow$ Lower Retention Risk.** Empowering team members to own their time signals radical trust. This trust is a critical factor in talent retention, reducing the astronomical cost and risk associated with losing high-performing engineers mid-project.
 
